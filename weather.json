@@ -1,0 +1,40 @@
+﻿{"query":
+	{
+		"count":1,
+		"created":"2016-07-30T17:38:37Z",
+		"lang":"ru-RU",
+		"results":{
+				"channel":{
+					"item":{
+						"title":"Conditions for Chernihiv, Chernihiv Oblast, UA at 08:00 PM EEST",
+						"lat":"51.499699",
+						"long":"31.2866",
+						"link":"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-918233/",
+						"pubDate":"Sat, 30 Jul 2016 08:00 PM EEST",
+						"condition":{
+							"code":"30",
+							"date":"Sat, 30 Jul 2016 08:00 PM EEST",
+							"temp":"24",
+							"text":"Partly Cloudy"
+							},
+						"forecast":[
+							{"code":"28","date":"30 Jul 2016","day":"Sat","high":"25","low":"18","text":"Mostly Cloudy"},
+							{"code":"30","date":"31 Jul 2016","day":"Sun","high":"29","low":"16","text":"Partly Cloudy"},
+							{"code":"34","date":"01 Aug 2016","day":"Mon","high":"30","low":"18","text":"Mostly Sunny"},
+							{"code":"4","date":"02 Aug 2016","day":"Tue","high":"27","low":"18","text":"Thunderstorms"},
+							{"code":"28","date":"03 Aug 2016","day":"Wed","high":"25","low":"16","text":"Mostly Cloudy"},
+							{"code":"30","date":"04 Aug 2016","day":"Thu","high":"27","low":"14","text":"Partly Cloudy"},
+							{"code":"30","date":"05 Aug 2016","day":"Fri","high":"27","low":"15","text":"Partly Cloudy"},
+							{"code":"30","date":"06 Aug 2016","day":"Sat","high":"28","low":"18","text":"Partly Cloudy"},
+							{"code":"30","date":"07 Aug 2016","day":"Sun","high":"29","low":"17","text":"Partly Cloudy"},
+							{"code":"47","date":"08 Aug 2016","day":"Mon","high":"27","low":"17","text":"Scattered Thunderstorms"}
+							],
+							
+						"description":"<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/30.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Partly Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sat - Mostly Cloudy. High: 25Low: 18\n<BR /> Sun - Partly Cloudy. High: 29Low: 16\n<BR /> Mon - Mostly Sunny. High: 30Low: 18\n<BR /> Tue - Thunderstorms. High: 27Low: 18\n<BR /> Wed - Mostly Cloudy. High: 25Low: 16\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-918233/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+						"guid":{
+							"isPermaLink":"false"}
+					}
+				}
+		}
+	}
+}
